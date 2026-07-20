@@ -162,7 +162,7 @@ The dashboard emphasizes clarity, statistical validity, and business decision‑
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](imagesdashboardpreview.png)
 
 
 
